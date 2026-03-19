@@ -43,7 +43,7 @@ This project includes comprehensive documentation covering the full system desig
 
 ## 📁 Documentation
 
-All diagrams and architectural specifications are in the `Dokumentacija` folder, covering the complete software development lifecycle from requirements analysis through to design patterns implementation.
+All diagrams and architectural specifications are in the `docs` folder, covering the complete software development lifecycle from requirements analysis through to design patterns implementation.
 
 ---
 
